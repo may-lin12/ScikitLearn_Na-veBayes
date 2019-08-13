@@ -1,1 +1,1 @@
-# ScikitLearn_Na-veBayes
+# ScikitLearn_NaïveBayes

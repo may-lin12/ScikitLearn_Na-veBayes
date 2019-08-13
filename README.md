@@ -1,3 +1,5 @@
 # ScikitLearn_NaïveBayes
-### 對 diabetes.csv 進行Supervised learning中的Naïve Bayes分析 
-### 呈現分析結果的precision. recall. f1-score值與混淆矩陣
+- 資料集：diabetes.csv 
+- 監督是學習
+- 演算法：Naïve Bayes
+- 呈現分析結果之precision. recall. f1-score值與混淆矩陣
